@@ -1,0 +1,32 @@
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\bin\Debug\PicturePuzzle.exe
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\bin\Debug\PicturePuzzle.pdb
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Form1.resources
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Properties.Resources.resources
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csproj.GenerateResource.Cache
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\obj\x86\Debug\PicturePuzzle.exe
+C:\Users\Debbie Blum\AppData\Local\Temporary Projects\PicturePuzzle\obj\x86\Debug\PicturePuzzle.pdb
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.exe
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.pdb
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.exe
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.pdb
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Form1.resources
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Properties.Resources.resources
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csproj.GenerateResource.Cache
+E:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csprojResolveAssemblyReference.cache
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.exe
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.pdb
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.exe
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.pdb
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csprojResolveAssemblyReference.cache
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Form1.resources
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Properties.Resources.resources
+G:\תכנות\c sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csproj.GenerateResource.Cache
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.exe
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.pdb
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.exe
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\bin\Debug\PicturePuzzle.pdb
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Form1.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.Properties.Resources.resources
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csproj.GenerateResource.Cache
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csprojAssemblyReference.cache
+C:\Users\דוד פיינגולד\Desktop\תכנות\C Sharp\PicturePuzzle\PicturePuzzle\obj\x86\Debug\PicturePuzzle.csproj.CoreCompileInputs.cache
